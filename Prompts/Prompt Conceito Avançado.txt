@@ -1,0 +1,17 @@
+Conceitos avançados de prompts
+
+# **Prompts negativos**
+São comandos de texto que ajudam a especificar o que você não deseja na sua geração de imagens. Ao usar **prompts negativos**, você pode reduzir ou eliminar elementos específicos que você não gosta ou não precisa.
+
+# Passagem variáveis (prompt pattern)
+Para deixar os resultados menos aleatórios e mais direcionados, sempre envie através de linguagem natural blocos de variáveis
+
+Prompt original: "Olá, [NOME]! Como posso te ajudar hoje?"
+​
+Durante a interação, peça para substituir o bloco "[NOME]" pelo nome real da pessoa, assim:
+
+Usuário: "Olá, ChatGPT! Meu nome é João. Como posso te ajudar hoje?"
+
+Ao receber o texto do usuário com a substituição da variável, o modelo responderá adequadamente:
+
+ChatGPT: "Olá, João! Como posso te ajudar hoje?"

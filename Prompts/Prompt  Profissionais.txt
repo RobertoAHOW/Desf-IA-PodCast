@@ -1,0 +1,19 @@
+Prompts Profissionais
+
+-Seja específico: Ao escrever um prompt, certifique-se de fornecer detalhes específicos e relevantes para o campo da engenharia. Isso ajudará o profissional a entender claramente o problema ou a tarefa em questão e a responder de forma mais precisa.
+
+Exemplo fraco: "Discuta sobre engenharia civil."
+Exemplo forte: "Descreva os desafios enfrentados na construção de pontes suspensas e forneça exemplos de soluções inovadoras."
+
+-Forneça contexto adequado: Ao apresentar um problema ou uma pergunta, é importante fornecer contexto suficiente para que o profissional possa entender completamente a situação. Isso inclui informações relevantes sobre o cenário, as restrições e as metas envolvidas.
+
+Exemplo fraco: "Projete um novo sistema de abastecimento de água."
+Exemplo forte: "Você foi contratado para projetar um sistema de abastecimento de água em uma área rural com pouca infraestrutura existente. Considere as limitações orçamentárias e ambientais ao propor uma solução sustentável."
+
+-Estimule a aplicação prática do conhecimento: Os profissionais de engenharia estão sempre buscando soluções práticas e aplicáveis. Ao escrever um prompt, tente enfocar em situações reais e desafios que eles possam encontrar no trabalho cotidiano. Isso ajudará a tornar o exercício mais relevante e interessante para eles.
+Exemplo fraco: "Explique as leis da termodinâmica."
+Exemplo forte: "Você está projetando um sistema de refrigeração para um data center. Descreva as leis da termodinâmica que são relevantes para o projeto e como elas podem ser aplicadas para maximizar a eficiência energética."
+
+-Estimule a comunicação clara e concisa: A habilidade de se comunicar efetivamente é essencial para um engenheiro. Ao escrever um prompt, incentive a apresentação clara e concisa das ideias, seja solicitando uma explicação passo a passo ou uma análise detalhada do problema. Isso ajudará a desenvolver as habilidades de comunicação do profissional.
+Exemplo fraco: "Resolva a equação diferencial fornecida."
+Exemplo forte: "Explique, em termos simples, o processo passo a passo para resolver uma equação diferencial de primeira ordem usando o método da separação de variáveis. Ilustre sua explicação com um exemplo numérico."
