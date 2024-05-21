@@ -2,7 +2,7 @@
 
 - [ChatGPT](https://chat.openai.com/) 
 - [ttsfree](https://ttsfree.com/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Copilot](https://www.bing.com/search?q=Bing+AI&qs=ds&form=MW00X7&showconv=1)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
@@ -23,8 +23,9 @@
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `chagpt
-- 🤖 3. Use os prompts de artes no `ttsfree`
+- 🤖 2. Use os prompts de diagramação no `powerpoint`
+- 🤖 3. Use os prompts de artes no `copilot`
+- 🤖 4. Use os prompts de tranformar palavras digitadas em voz `ttsfree`
 
 ## 👨‍💻 Expert
 
